@@ -1,0 +1,7 @@
+C:\Users\schal\source\repos\Diagonal Difference\Diagonal Difference\obj\Debug\Diagonal Difference.csproj.AssemblyReference.cache
+C:\Users\schal\source\repos\Diagonal Difference\Diagonal Difference\obj\Debug\Diagonal Difference.csproj.CoreCompileInputs.cache
+C:\Users\schal\source\repos\Diagonal Difference\Diagonal Difference\bin\Debug\Diagonal Difference.exe.config
+C:\Users\schal\source\repos\Diagonal Difference\Diagonal Difference\bin\Debug\Diagonal Difference.exe
+C:\Users\schal\source\repos\Diagonal Difference\Diagonal Difference\bin\Debug\Diagonal Difference.pdb
+C:\Users\schal\source\repos\Diagonal Difference\Diagonal Difference\obj\Debug\Diagonal Difference.exe
+C:\Users\schal\source\repos\Diagonal Difference\Diagonal Difference\obj\Debug\Diagonal Difference.pdb
